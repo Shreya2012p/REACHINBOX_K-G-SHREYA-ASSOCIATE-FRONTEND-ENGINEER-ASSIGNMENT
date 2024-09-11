@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/6caba97f-3a0a-4f86-86b5-a85055b04eb1)
 # REACHINBOX_K G SHREYA-ASSOCIATE-FRONTEND-ENGINEER-ASSIGNMENT
 This project is a fully functional web application developed using React and integrates with provided APIs. It includes several key features such as login functionality, fetching and managing data with keyboard shortcuts, a custom text editor, and theme toggling.
 
