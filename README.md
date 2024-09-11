@@ -38,10 +38,10 @@ Make sure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Shreya2012p/REACHINBOX_KGSHREYA-ASSIGNMENT-ASSOCIATE_FRONTEND_ENGINEER.git
 2. **Navigate into the project directory**:
    ```bash
-   cd repo-name
+   cd REACHINBOX_KGSHREYA-ASSIGNMENT-ASSOCIATE_FRONTEND_ENGINEER
 3. **Install dependencies**:
    ```bash
    npm install
