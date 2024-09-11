@@ -86,7 +86,19 @@ Make sure you have the following installed:
 
 ## Deployment Link
 
-https://reachinbox-ai-kgshreya-assignment.netlify.app/
+- https://reachinbox-ai-kgshreya-assignment.netlify.app/
+
+## Design File and API File
+
+- https://www.figma.com/file/uECxqvFhEx9dn4ZuO7wqmu/Reachinbox-Assignment?type=design&node-id=0-1&mode=design <br>
+- https://documenter.getpostman.com/view/30630244/2sA2rCTMKr#433eb613-e405-4239-9e2d-f20485b31b27
+  
+## Contact
+
+- **Email ID** : kgshreya2003@gmail.com <br>
+- **LinkedIn** : https://www.linkedin.com/in/k-g-shreya-b6a802241
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
